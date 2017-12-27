@@ -18,9 +18,12 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: $white;
+  // font: 18px/1.4 $helvetica;
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  // color: $darkGray;
+  color: $gray;
 }
 
 .container {
